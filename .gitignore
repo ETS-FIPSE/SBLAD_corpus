@@ -1,0 +1,4 @@
+/venv
+.gitignore
+content_titles_files.csv
+.DS_Store
